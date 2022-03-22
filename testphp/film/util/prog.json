@@ -1,0 +1,364 @@
+[{
+	"file" : "12AnniSchiavo",
+	"titolo" : "12 anni schiavo",
+	"locandina" : "12AnniSchiavo.jpeg",
+	"cinema" : "EUROPA CINEMA",
+	"indirizzo" : "Via  Pietralata 55/a",
+	"telefono" : "051/523812",
+	"orario" : "15:30 18:00 20:30" 
+}, {
+	"file" : "12AnniSchiavo",
+	"titolo" : "12 anni schiavo",
+	"locandina" : "12AnniSchiavo.jpeg",
+	"cinema" : "LUMIERE",
+	"indirizzo" : "Via Azzo Gardino 65",
+	"telefono" : "051/2195311",
+	"orario" : "17:30 20:00 22:30",
+	"note" : "Lingua originale"  
+}, {
+	"file" : "12AnniSchiavo",
+	"titolo" : "12 anni schiavo",
+	"locandina" : "12AnniSchiavo.jpeg",
+	"cinema" : "ODEON",
+	"indirizzo" : "Via Mascarella 3 ",
+	"telefono" : "051/227916",
+	"orario" : "16:00 18:30 21:00" 
+}, {
+	"file" : "12AnniSchiavo",
+	"titolo" : "12 anni schiavo",
+	"locandina" : "12AnniSchiavo.jpeg",
+	"cinema" : "ROMA D'ESSAI" ,
+	"indirizzo" : "Via  Fondazza  4",
+	"telefono" : "051/347470",
+	"orario" : "15:30 18:00 20:30" 
+}, {
+	"file" : "12AnniSchiavo",
+	"titolo" : "12 anni schiavo",
+	"locandina" : "12AnniSchiavo.jpeg",
+	"cinema" : "THE SPACE CINEMA BOLOGNA",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "16:00 19:00 22:00" 
+}, {
+	"file" : "APropositoDiDavis",
+	"titolo" : "A proposito di Davis",
+	"locandina" : "APropositoDiDavis.gif",
+	"cinema" : "CHAPLIN",
+	"indirizzo" : "Piazza di Porta Saragozza 5",
+	"telefono" : "051585253",
+	"orario" : "16:00 18:45 21:30" 
+}, {
+	"file" : "APropositoDiDavis",
+	"titolo" : "A proposito di Davis",
+	"locandina" : "APropositoDiDavis.gif",
+	"cinema" : "RIALTO STUDIO",
+	"indirizzo" : "Via  Rialto  19",
+	"telefono" : "051/227926",
+	"orario" : "16:30 18:45 21:00" 
+}, {
+	"file" : "APropositoDiDavis",
+	"titolo" : "A proposito di Davis",
+	"locandina" : "APropositoDiDavis.gif",
+	"cinema" : "THE SPACE CINEMA BOLOGNA",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "19:35" 
+}, {
+	"file" : "BelleeSebastien",
+	"titolo" : "Belle & Sebastien",
+	"locandina" : "BelleeSebastien.gif",
+	"cinema" : "THE SPACE CINEMA BOLOGNA",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "14:45 17:10" 
+}, {
+	"file" : "BlueJasmine",
+	"titolo" : "Blue Jasmine", 
+	"locandina" : "BlueJasmine.gif", 
+	"cinema" : "BELLINZONA D'ESSAI" ,
+	"indirizzo" : "Via Bellinzona, 6 ",
+	"telefono" : "051/6446940",
+	"orario" : "21:00" 
+}, {
+	"file" : "DallasBuyersClub",
+	"titolo" : "Dallas Buyers Club",
+	"locandina" : "DallasBuyersClub.gif",
+	"cinema" : "GALLIERA",
+	"indirizzo" : "Via Matteotti, 25 ",
+	"telefono" : "051/4151762",
+	"orario" : "21:00" 
+}, {
+	"file" : "ISegretiDiOsageCounty",
+	"titolo" : "I segreti di Osage County",
+	"locandina" : "ISegretiDiOsageCounty.gif",
+	"cinema" : "ODEON",
+	"indirizzo" : "Via Mascarella 3 ",
+	"telefono" : "051/227916",
+	"orario" : "18:45 21:00" 
+}, {
+	"file" : "IlCapitaleUmano",
+	"titolo" : "Il capitale umano",
+	"locandina" : "IlCapitaleUmano.gif",
+	"cinema" : "ARLECCHINO",
+	"indirizzo" : "Via Lame  57",
+	"telefono" : "051/522285",
+	"orario" : "15:30 18:00 20:30" 
+}, {
+	"file" : "Khumba",
+	"titolo" : "Khumba - Cercasi strisce disperatamente",
+	"locandina" : "Khumba.gif",
+	"cinema" : "THE SPACE CINEMA BOLOGNA",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "15:40" 
+}, {
+	"file" : "LoneSurvivor",
+	"titolo" : "Lone Survivor",
+	"locandina" : "LoneSurvivor.gif",
+	"cinema" : "CAPITOL MULTISALA",
+	"indirizzo" : "Via  Indipendenza  74",
+	"telefono" : "051/241002",
+	"orario" : "15:30 17:50 20:10 22:30" 
+}, {
+	"file" : "MoliereInBicicletta",
+	"titolo" : "Moliere in bicicletta",
+	"locandina" : "MoliereInBicicletta.jpeg",
+	"cinema" : "ANTONIANO",
+	"indirizzo" : "Via  Guinizelli Guido 3",
+	"telefono" : "051/3940212",
+	"orario" : "20:30 22:30" 
+}, {
+	"file" : "MonumentsMen",
+	"titolo" : "Monuments Men",
+	"locandina" : "MonumentsMen.jpeg",
+	"cinema" : "BRISTOL",
+	"indirizzo" : "Via Toscana 146",
+	"telefono" : "051474015",
+	"orario" : "21:00" 
+}, {
+	"file" : "MonumentsMen",
+	"titolo" : "Monuments Men",
+	"locandina" : "MonumentsMen.jpeg",
+	"cinema" : "CAPITOL MULTISALA",
+	"indirizzo" : "Via  Indipendenza  74",
+	"telefono" : "051/241002",
+	"orario" : "15:30 17:50 20:10 22:30" 
+}, {
+	"file" : "MonumentsMen",
+	"titolo" : "Monuments Men",
+	"locandina" : "MonumentsMen.jpeg",
+	"cinema" : "NUOVO NOSADELLA",
+	"indirizzo" : "Via  Lodovico Berti   2/7",
+	"telefono" : "051/521550 - 320/2584129",
+	"orario" : "19:10 21:30" 
+}, {
+	"file" : "MonumentsMen",
+	"titolo" : "Monuments Men",
+	"locandina" : "MonumentsMen.jpeg",
+	"cinema" : "ODEON",
+	"indirizzo" : "Via Mascarella 3 ",
+	"telefono" : "051/227916",
+	"orario" : "16:00 21:00" 
+}, {
+	"file" : "MonumentsMen",
+	"titolo" : "Monuments Men",
+	"locandina" : "MonumentsMen.jpeg",
+	"cinema" : "THE SPACE CINEMA BOLOGNA",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "14:30 17:05 19:45 22:25" 
+}, {
+	"file" : "Pompei",
+	"titolo" : "Pompei",
+	"locandina" : "Pompei.gif",
+	"cinema" : "CAPITOL MULTISALA",
+	"indirizzo" : "Via  Indipendenza  74",
+	"telefono" : "051/241002",
+	"orario" : "16:00 18:10 20:20 22:30" 
+}, {
+	"file" : "Pompei",
+	"titolo" : "Pompei",
+	"locandina" : "Pompei.gif",
+	"cinema" : "THE SPACE CINEMA BOLOGNA",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "15:00 20:00" 
+},{
+	"file" : "Pompei",
+	"titolo" : "Pompei",
+	"locandina" : "Pompei.gif",
+	"cinema" : "THE SPACE CINEMA BOLOGNA (3D)",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "17:30 22:30" 
+}, {
+	"file" : "SavingMrBanks",
+	"titolo" : "Saving Mr. Banks",
+	"locandina" : "SavingMrBanks.gif",
+	"cinema" : "JOLLY",
+	"indirizzo" : "Via  Marconi 14",
+	"telefono" : "051/224605",
+	"orario" : "16:00 18:30 21:00" 
+}, {
+	"file" : "SavingMrBanks",
+	"titolo" : "Saving Mr. Banks",
+	"locandina" : "SavingMrBanks.gif",
+	"cinema" : "THE SPACE CINEMA BOLOGNA",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "14:20 17:05 19:50 22:35" 
+}, {
+	"file" : "SmettoQuandoVoglio",
+	"titolo" : "Smetto quando voglio",
+	"locandina" : "SmettoQuandoVoglio.gif",
+	"cinema" : "ODEON",
+	"indirizzo" : "Via Mascarella 3 ",
+	"telefono" : "051/227916",
+	"orario" : "16:30 18:45 21:00" 
+}, {
+	"file" : "SmettoQuandoVoglio",
+	"titolo" : "Smetto quando voglio",
+	"locandina" : "SmettoQuandoVoglio.gif",
+	"cinema" : "THE SPACE CINEMA BOLOGNA",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "20:15 22:40" 
+}, {
+	"file" : "SottoUnaBuonaStella",
+	"titolo" : "Sotto una buona stella",
+	"locandina" : "SottoUnaBuonaStella.gif",
+	"cinema" : "FOSSOLO",
+	"indirizzo" : "Via Lincoln  3",
+	"telefono" : "051/540145",
+	"orario" : "21:00" 
+}, {
+	"file" : "SottoUnaBuonaStella",
+	"titolo" : "Sotto una buona stella",
+	"locandina" : "SottoUnaBuonaStella.gif",
+	"cinema" : "MEDICA PALACE DOLBY DIGITAL",
+	"indirizzo" : "Via Monte Grappa, 9 ",
+	"telefono" : "051/221362",
+	"orario" : "16:30 18:45 21:15" 
+}, {
+	"file" : "SottoUnaBuonaStella",
+	"titolo" : "Sotto una buona stella",
+	"locandina" : "SottoUnaBuonaStella.gif",
+	"cinema" : "THE SPACE CINEMA BOLOGNA",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "14:55 17:25 19:55 22:25" 
+}, {
+	"file" : "StillLife",
+	"titolo" : "Still Life",
+	"locandina" : "StillLife.gif",
+	"cinema" : "TIVOLI",
+	"indirizzo" : "Via Massarenti 418",
+	"telefono" : "051/532417",
+	"orario" : "21:00" 
+}, {
+	"file" : "StoriaDInverno",
+	"titolo" : "Storia d'Inverno",
+	"locandina" : "StoriaDInverno.gif",
+	"cinema" : "THE SPACE CINEMA BOLOGNA",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "14:35 17:10 19:45 22:20" 
+}, {
+	"file" : "TangoLibre",
+	"titolo" : "Tango Libre",
+	"locandina" : "TangoLibre.jpeg",
+	"cinema" : "ODEON",
+	"indirizzo" : "Via Mascarella 3 ",
+	"telefono" : "051/227916",
+	"orario" : "16:30" 
+}, {
+	"file" : "TheButler",
+	"titolo" : "The Butler - Un maggiordomo alla Casa Bianca",
+	"locandina" : "TheButler.gif",
+	"cinema" : "ORIONE",
+	"indirizzo" : "Via Cimabue 14 ",
+	"telefono" : "051/382403",
+	"orario" : "21:00" 
+}, {
+	"file" : "TheFighter",
+	"titolo" : "The Fighter",
+	"locandina" : "TheFighter.gif",
+	"cinema" : "LUMIERE",
+	"indirizzo" : "Via Azzo Gardino 65",
+	"telefono" : "051/2195311",
+	"orario" : "22:15",
+	"note" : "Lingua originale"  
+}, {
+	"file" : "TheLegoMovie",
+	"titolo" : "The Lego Movie",
+	"locandina" : "TheLegoMovie.gif",
+	"cinema" : "NUOVO NOSADELLA",
+	"indirizzo" : "Via  Lodovico Berti   2/7",
+	"telefono" : "051/521550 - 320/2584129",
+	"orario" : "19:40 21:30" 
+}, {
+	"file" : "TheLegoMovie",
+	"titolo" : "The Lego Movie",
+	"locandina" : "TheLegoMovie.gif",
+	"cinema" : "SMERALDO DIGITAL",
+	"indirizzo" : "Via  Toscana 125",
+	"telefono" : "051/473959",
+	"orario" : "19:15 21:15" 
+}, {
+	"file" : "TheLegoMovie",
+	"titolo" : "The Lego Movie",
+	"locandina" : "TheLegoMovie.gif",
+	"cinema" : "THE SPACE CINEMA BOLOGNA",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "15:00 17:20 17:55 19:50" 
+},{
+	"file" : "TheLegoMovie",
+	"titolo" : "The Lego Movie",
+	"locandina" : "TheLegoMovie.gif",
+	"cinema" : "THE SPACE CINEMA BOLOGNA (3D)",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "22:15" 
+}, {
+	"file" : "TheSquare",
+	"titolo" : "The Square - Inside the Revolution",
+	"locandina" : "TheSquare.gif",
+	"cinema" : "EUROPA CINEMA",
+	"indirizzo" : "Via  Pietralata 55/a",
+	"telefono" : "051/523812",
+	"orario" : "23:00",
+	"note" : "Lingua originale" 
+}, {
+	"file" : "TheWolfOfWallStreet",
+	"titolo": "The Wolf of Wall Street",
+	"locandina" : "TheWolfOfWallStreet.gif",
+	"cinema" : "RIALTO STUDIO",
+	"indirizzo" : "Via  Rialto  19",
+	"telefono" : "051/227926",
+	"orario" : "20:00" 
+}, {
+	"file" : "TheWolfOfWallStreet",
+	"titolo": "The Wolf of Wall Street",
+	"locandina" : "TheWolfOfWallStreet.gif",
+	"cinema" : "THE SPACE CINEMA BOLOGNA",
+	"indirizzo" : "Viale  Europa 5",
+	"telefono" : "892.111",
+	"orario" : "22:00" 
+}, {
+	"file" : "TuttaColpaDiFreud",
+	"titolo" : "Tutta colpa di Freud",
+	"locandina" : "TuttaColpaDiFreud.gif",
+	"cinema" : "CAPITOL MULTISALA",
+	"indirizzo" : "Via  Indipendenza  74",
+	"telefono" : "051/241002",
+	"orario" : "15:30 17:50 20:10 22:30" 
+}, {
+	"file" : "TuttoSuaMadre",
+	"titolo" : "Tutto sua madre",
+	"locandina" : "TuttoSuaMadre.gif",
+	"cinema" : "RIALTO STUDIO",
+	"indirizzo" : "Via  Rialto  19",
+	"telefono" : "051/227926",
+	"orario" : "16:30 18:15" 
+}]

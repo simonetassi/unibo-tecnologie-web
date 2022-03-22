@@ -1,0 +1,38 @@
+swagger: "2.0"
+info:
+  description: "API Ristorante"
+  version: "0.0.1"
+  title: "API Ristorante"
+  
+host: "tw.cs.unibo.it"
+basePath: "/v1"
+paths:
+  /menu/:
+    get:
+      responses:
+        200:
+          description: "OK"
+          schema:
+            type: array
+            items: 
+              $ref: "#/definitions/Menu"
+        400:
+          description: "ERROR"
+            
+
+schemes:
+- "http"
+
+definitions:
+# definito dall'utente
+  Menu:
+    type: object
+    required:
+      - id
+      - title
+    properties:
+      id:
+        type: integer
+        format: int64
+      title:
+        type: string
