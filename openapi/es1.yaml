@@ -6,6 +6,9 @@ info:
   
 host: "tw.cs.unibo.it"
 basePath: "/v1"
+schemes:
+- "http"
+
 paths:
   # elenco menù
   /menu/:
@@ -99,8 +102,7 @@ paths:
       
 
 
-schemes:
-- "http"
+
 
 definitions:
 # definito dall'utente

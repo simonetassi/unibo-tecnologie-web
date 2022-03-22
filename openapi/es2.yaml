@@ -1,0 +1,110 @@
+swagger: "2.0"
+info:
+  description: "API Videogiochi"
+  version: "0.0.1"
+  title: "API Videogiochi"
+host: "tw.cs.unibo.it"
+basePath: "/v1"
+schemes:
+- "http"
+
+paths:
+  /games/:
+    # 1) get game list of a given category
+    get:
+      parameters:
+        - name: category
+          in: query
+          type: string
+          enum:
+          - shooter
+          - adventure
+          - puzzle
+          - sport
+          required: true
+      responses:
+        200:
+          description: "OK"
+          schema:
+            type: array
+            items:
+              $ref: "#/definitions/Game"
+        400:
+          description: "ERROR"
+    # 3) add one or more games
+    post: 
+      parameters:
+      - name: games
+        description: "array of games"
+        in: body
+        required: true
+        schema:
+          type: array
+          items:
+            $ref: "#/definitions/Game"
+      responses:
+        200:
+          description: "OK"
+        400:
+          description: "ERROR"
+  # 2) edit min and max players number
+  /games/{gameId}:
+    post:
+      parameters:
+      - name: gameId
+        in: path
+        type: integer
+        format: int64
+        required: true
+      - name: interval
+        in: body
+        schema:
+          $ref: "#/definitions/Game"
+      responses:
+        200:
+          description: "OK"
+        400:
+          description: "ERROR"
+  
+
+definitions:
+  # define category enumeration
+  Category:
+    type: string
+    enum:
+    - shooter
+    - adventure
+    - puzzle
+    - sport
+  # define interval object
+  Interval:
+    type: object
+    required:
+    - min
+    - max
+    properties:
+      min:
+        type: integer
+        format: int64
+      max:
+        type: integer
+        format: int64
+  # define game object
+  Game:
+    type: object
+    required:
+    - id
+    - name
+    - category
+    - minPlayers
+    - maxPlayers
+    properties:
+      id:
+        type: integer
+        format: int64
+      name:
+        type: string
+      category:
+        $ref: "#/definitions/Category"
+      interval:
+        $ref: "#/definitions/Interval"
