@@ -20,4 +20,5 @@ a{
 
 ol{
     font-style: italic;
+    border: 3px dashed blue;
 }
