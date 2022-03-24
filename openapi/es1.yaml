@@ -27,7 +27,6 @@ paths:
   # informazioni sul menu
   /menu/{idMenu}:
     get:
-      # chiarire questa cosa che non ho capito (parameters, cos'è idMenu...)
       parameters:
       - name: idMenu
         in: path
