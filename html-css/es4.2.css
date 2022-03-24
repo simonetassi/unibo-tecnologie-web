@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #FFFFEE;
+    column-count: 2;
+    column-rule-style: solid;
+    text-align: justify;
+    margin: 60px;
+}
+
+p{
+    margin-bottom: 30px;
+}
+
+#sec1 p:first-letter{
+    font-size: 300%;
+    color: red;
+}
+
+h1, h2, h3{
+    text-transform: uppercase;
+}
+
+ol li:nth-child(even) {
+    background-color: lightgrey;
+}
+ 
+
+ol li:nth-child(odd) {
+    background-color: gray;
+}

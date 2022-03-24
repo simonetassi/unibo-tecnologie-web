@@ -18,7 +18,7 @@ a{
     font-size: 125%;  
 }
 
-ol{
+#list1{
     font-style: italic;
     border: 3px dashed blue;
 }
