@@ -107,7 +107,7 @@ definitions:
 # definito dall'utente
   Menu:
     type: object
-    # elenco proprietà obbligatorie (tutti gli attributi qui sotto elencati)
+    # REQUIRED elenco proprietà obbligatorie (tutti gli attributi qui sotto elencati)
     required: 
       - id
       - title
