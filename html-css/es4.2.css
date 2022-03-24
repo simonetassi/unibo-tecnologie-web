@@ -20,6 +20,11 @@ h1, h2, h3{
     text-transform: uppercase;
 }
 
+section{
+    padding: 20px;
+    break-inside: avoid;
+}
+
 ol li:nth-child(even) {
     background-color: lightgrey;
 }
