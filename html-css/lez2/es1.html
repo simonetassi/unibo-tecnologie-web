@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en/US">
+
+<head>
+    <title>Esercizio Layout</title>
+    <style>
+        nav {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            background: lightgray;
+            padding: 0 0.5rem;
+        }
+
+        p {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            font-weight: bold;
+            margin: 0 0.25rem;
+            padding: 0.75rem 0.5rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-areas: "a1 a2 a3 a4 a5 a6";
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <p>Prova</p>
+    </nav>
+
+
+    <h1>Primo test di layout</h1>
+    <div class="grid">
+        <section id="a1"></section>
+        <section id="a2">
+            <p>Questa è l'area A.</p>
+
+            <p>Negli schermi per PC è larga un quarto dello spazio disponibile (a parte le colonne laterali). Negli
+                schermi
+                per
+                tablet è larga la metà dello spazio disponibile (a parte le colonne laterali) e ha l'area C sotto di sé.
+            </p>
+        </section>
+        <section id="a3">
+            <p>Questa è l'area B.</p>
+
+            <p>Negli schermi per PC è larga un quarto dello spazio disponibile (a parte le colonne laterali). Negli
+                schermi
+                per
+                tablet è larga la metà dello spazio disponibile (a parte le colonne laterali) e ha l'area D sotto di sé.
+            </p>
+        </section>
+        <section id="a4">
+            <p>Questa è l'area C.</p>
+
+            <p>Negli schermi per PC è larga un quarto dello spazio disponibile (a parte le colonne laterali). Negli
+                schermi
+                per
+                tablet è larga la metà dello spazio disponibile (a parte le colonne laterali) e ha l'area A sopra di sé.
+            </p>
+        </section>
+        <section id="a5">
+            <p>Questa è l'area D.</p>
+
+            <p>Negli schermi per PC è larga un quarto dello spazio disponibile (a parte le colonne laterali). Negli
+                schermi
+                per
+                tablet è larga la metà dello spazio disponibile (a parte le colonne laterali) e ha l'area B sopra di sé.
+            </p>
+        </section>
+        <section id="a6"></section>
+    </div>
+</body>
+
+</html>
