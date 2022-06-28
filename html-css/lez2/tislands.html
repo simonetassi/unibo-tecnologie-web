@@ -16,56 +16,59 @@
         nav {
             background-color: #353a40;
             color: #8b8f95;
+            padding: 0 0.5rem;
         }
 
-        .nav-item {
-            margin: 0.5rem;
-        }
-
-        .selected-nav {
-            color: white;
-            font-size: large;
-        }
-        
-        .menu-list{
+        .menu-list {
             color: blue;
         }
-
     </style>
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg">
-        <span class="nav-item selected-nav">My Tropical Islands</span>
-        <span class="nav-item">About</span>
-        <span class="nav-item">Book a vacation</span>
-        <span class="nav-item">Contacts</span>
-    </nav>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <a class="navbar-brand" href="#">My Tropical Islands</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Book a vacation</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Contacts</a></li>
+                </ul>
+            </div>
+        </nav>
 
-    <p class="menu-list"><u>Our destinations</u></p>
-    <div class="container-fluid">
-        <div class="row">
+    </header>
 
-            <img src="tropical/beach1.jpg" class="col-md-6">
+    <ul>
+        <li class="menu-list"><u>Our destinations</u></li>
+        <div class="container-fluid">
+            <div class="row">
 
-            <div class="col-md-6">
-                <h5>Get out of the city and on a nice beach!</h3>
-                    <p>Some like their holidays active, others like things slow. There is no
-                        shame in going on holiday, kicking back and doing absolutely nothing, yet so
-                        often in reality it doesn't quite work out like that. Arrive in a new
-                        destination, and most of us will instantly want to head out and explore every
-                        nook and cranny. We just can't help ourselves.</p>
+                <img src="tropical/beach1.jpg" class="col-md-6">
 
-                    <p>We have come up with a few locations that will help you a hand in
-                        resolving this conondrum. These destinations feature some of the most
-                        spectacular scenery seen anywhere in the world, but there is not much to do
-                        other than gawk at it in awe, and kick back...</p>
+                <div class="col-md-6">
+                    <h5>Get out of the city and on a nice beach!</h3>
+                        <p>Some like their holidays active, others like things slow. There is no
+                            shame in going on holiday, kicking back and doing absolutely nothing, yet so
+                            often in reality it doesn't quite work out like that. Arrive in a new
+                            destination, and most of us will instantly want to head out and explore every
+                            nook and cranny. We just can't help ourselves.</p>
+
+                        <p>We have come up with a few locations that will help you a hand in
+                            resolving this conondrum. These destinations feature some of the most
+                            spectacular scenery seen anywhere in the world, but there is not much to do
+                            other than gawk at it in awe, and kick back...</p>
+                </div>
             </div>
         </div>
-    </div>
-    <p class="menu-list">Beaches to relax in...</p>
-    <p class="menu-list">Beaches off the beaten track</p>
-
+        <li class="menu-list">Beaches to relax in...</li>
+        <li class="menu-list">Beaches off the beaten track</li>
+    </ul>
 
 </body>
 
