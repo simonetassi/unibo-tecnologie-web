@@ -1,7 +1,6 @@
 window.onload = function () {
     $.ajax({ // using $ as shortcut for "jQuery" - $.ajax performs an asynchronous HTTP (Ajax) request.
         url: API_SERVER_URL + '/events',
-        // async: false
         method: 'GET',
         success: function (event_list) { // if GET works
             for (var i in event_list) { // iterating event list taken from API
