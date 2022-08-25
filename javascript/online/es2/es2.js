@@ -1,4 +1,8 @@
-function set_background() {
-    var para = document.getElementsByTagName("p")[0];
-    para.style.backgroundColor = "rgb(255,0,0)"
+function getFormvalue() {
+    var x = document.getElementById("form1");
+    for (var i = 0; i < x.length; i++) {
+        if (x.elements[i].value != 'Submit') {
+            console.log(x.elements[i].value);
+        }
+    }
 }
