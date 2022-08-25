@@ -1,4 +1,6 @@
-var get_request = (path) => { // creating path and var request using PROMISE
+//TODO
+
+var get_request = (path) => { // creating var request using PROMISEs
     return new Promise((success, error) => { // 2 possible outcomes: success or error (of the request)
         var xhr = new XMLHttpRequest();
         xhr.onreadystatechange = function () {
@@ -44,7 +46,7 @@ function tableCreate(val) { // creating table
 }
 
 var onclick_fn = () => {
-    const promise = get_request('http://localhost:8080/es4.json')
+    const promise = get_request('es4.json')
     promise.then (val =>{
         console.log("asynchronous logging has val:", val);
         tableCreate(val);
