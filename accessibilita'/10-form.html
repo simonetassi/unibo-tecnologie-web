@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="it-it">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contattaci - tuttoaccessibile</title>
+</head>
+
+<body>
+    <form action="/invia/">
+        <label for="name">Nome</label>
+        <input type="text" id="name" required>
+        <label for="lastname">Cognome</label>
+        <input type="text" name="lastname" id="lastname" required>
+        <fieldset>
+            <legend>Genere</legend>
+            <input id="radio1" type="radio">
+            <label for="radio1">Maschio</label>
+            <input id="radio2" type="radio">
+            <label for="radio2">Femmina</label>
+            <input id="radio3" type="radio">
+            <label for="radio3">ltro (o preferisco non specificare)</label>
+        </fieldset>
+        <label for="email">E-Mail</label>
+        <input type="text" name="email" id="email" required>
+        <label for="subject">Oggetto</label>
+        <input type="text" name="subject" id="subject">
+        <label for="message">Messaggio</label>
+        <textarea name="body" id="body" rows="10" cols="30"></textarea>
+        <button type="submit">Invia messaggio</button>
+    </form>
+</body>
+
+</html>
