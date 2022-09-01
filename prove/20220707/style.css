@@ -1,0 +1,30 @@
+.card-img-overlay {
+    padding: 6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #77ba00;
+    font-size: 2.1rem;
+}
+
+/* #img1{
+} */
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #77ba00;
+    text-align: center;
+    justify-content: center;
+    padding: 1.5rem;
+}
+
+.card-title {
+    color: #77ba00;
+}
+
+#cards {
+    padding-inline: 7rem;
+}
+
+.btn {
+    background-color: #77ba00;
+    border-radius: 0 !important;
+}
