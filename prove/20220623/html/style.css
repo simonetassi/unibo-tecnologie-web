@@ -25,6 +25,18 @@
     width: 28rem;
 }
 
+.atlas{
+    padding-left: 70rem;
+    padding-top: 8rem;
+}
+
+.atlas-text{
+    font-size: 1.5rem;
+    position: relative;
+    justify-content: center;
+    width: 28rem;
+}
+
 #logo2 {
     width: 15rem;
     padding-left: 1rem;
