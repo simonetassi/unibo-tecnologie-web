@@ -58,6 +58,31 @@ var myObj = {
 }
 
 function getRental(n) {
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open("GET", "www.auto2000.com/cgi-bin/getRentable.php?id=[" + n + "]", false);
+    xmlHttp.send(null);
+    return xmlHttp.responseText;
+}
+
+function isLast(n) {
+    var car = getRental(n);
+    return car.last;
+}
+
+function getPreviousRental() {
+    if (n == 1) {
+        alert("ERROR - this is the first car");
+    } else {
+        getRental(n - 1)
+    }
+}
+
+function getNextRental() {
+    if (isLast) {
+        alert("ERROR - this is the last car");
+    } else {
+        getRental(n + 1);
+    }
 
 }
 
