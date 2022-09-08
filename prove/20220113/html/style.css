@@ -1,0 +1,76 @@
+.navbarNav {
+    justify-content: center;
+}
+
+#becomehost {
+    background-color: #262626;
+    border: 0;
+}
+
+#user {
+    background-color: white;
+}
+
+#explorer {
+    text-decoration: none;
+}
+
+#searchbar {
+    padding-left: 15rem;
+    padding-right: 15rem;
+}
+
+.form-control {
+    border: 0;
+}
+
+#flexible {
+    color: #a0088f;
+    background-color: white;
+    font-weight: bold;
+}
+
+#first {
+    font-size: 5rem;
+}
+
+.cards1 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
+
+#imgov1 {
+    padding-top: 30%;
+}
+
+#cardsimg {
+    padding-left: 50%;
+    background-color: #e2e2e2;
+}
+
+#semititle {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#bigtitle {
+    font-size: 5rem;
+    font-weight: bold;
+    line-height: 100%;
+}
+
+#cardstext {
+    padding-right: 50rem;
+    padding-top: 5rem;
+}
+
+#textleft {
+    padding-left: 15rem;
+    padding-top: 5rem;
+}
+
+#superhost {
+    margin-top: 3rem;
+}
