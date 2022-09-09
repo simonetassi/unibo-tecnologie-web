@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <title>Includere Tutti</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <form action="/invia/">
+        <label for="name">Nome: </label>
+        <input type="text" id="name" required>
+        <label for="lastname">Cognome: </label>
+        <input type="text" id="lastname" required>
+        <fieldset>
+            <legend>Genere</legend>
+            <input type="radio" id="radio1">
+            <label for="radio1">Maschio</label>
+            <input type="radio" id="radio2">
+            <label for="radio2">Femmina</label>
+            <input type="radio" id="radio3">
+            <label for="radio3">Altro</label>
+        </fieldset>
+        <label for="message">Messaggio</label><br>
+        <textarea placeholder="Scrivi qui il tuo messaggio" id="message" cols="30" rows="10"></textarea> <br>
+        <input type="checkbox" id="privacy">    
+        <label for="privacy">Ho letto e accetto i termini sulla privacy</label>
+        <button type="submit">Invia messaggio!</button>
+    </form>
+</body>
+
+</html>
