@@ -1,0 +1,59 @@
+#searchbox {
+	border-radius: 0%;
+	border-color: gray;
+	border-width: thick;
+
+}
+
+hr {
+
+}
+
+#title1 {
+	font-size: 4rem;
+	color: black;
+}
+
+.badge {
+	margin-left: 46%;
+	margin-right: 46%;
+}
+
+.btn-secondary {
+	font-weight: bold;
+	width: 23rem;
+	border-radius: 0%;
+	margin-top: 7%;
+	background-color: white;
+	color: black;
+	border-width: thick;
+	border-color: black;
+	text-align: left;
+}
+
+#find {
+	font-weight: bold;
+	width: 23rem;
+	border-radius: 0%;
+	margin-top: 7%;
+	border-width: thick;
+	border-color: black;
+	background-color: black;
+}
+
+.checks {
+	margin-left: 1rem;
+}
+
+#upgrade {
+	background-color: #70d5af;
+	border-color: #70d5af;
+	padding-left: 35%;
+	padding-right: 35%;
+}
+
+.imggroup{
+	width: 15rem;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
