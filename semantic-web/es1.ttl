@@ -1,0 +1,8 @@
+@prefix my: <http../onto> 
+@prefix xsd:<http://www.w3.org/2001/XMLSchema#> 
+  
+my:Giulio 
+  my:nome "Giulio"^^xsd:string ; 
+  my:ha_comprato my:tacchino . 
+  
+my:tacchino  my:nome "George"^^xsd:string

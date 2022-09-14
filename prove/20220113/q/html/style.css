@@ -6,7 +6,31 @@
 
 }
 
-#homelogo{
+#homelogo {
     font-size: 1.5rem;
     font-weight: bold;
 }
+
+#searchbox {
+    border-radius: 0%;
+}
+
+#button-addon1 {
+    background-color: white;
+    border-color: white;
+
+    border-top-left-radius: 32px !important;
+    border-bottom-left-radius: 32px !important;
+}
+
+.form-control {
+    border-top-right-radius: 32px !important;
+    border-bottom-right-radius: 32px !important;
+}
+
+.input-group {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 14%;
+}
+
